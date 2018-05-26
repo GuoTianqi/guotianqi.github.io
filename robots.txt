@@ -10,6 +10,8 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /images/
+Disallow: /lib/
 
 Sitemap: https://guotianqi.xyz/sitemap.xml
 Sitemap: https://guotianqi.xyz/baidusitemap.xml
