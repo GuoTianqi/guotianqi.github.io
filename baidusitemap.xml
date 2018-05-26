@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://guotianqi.xyz/2018/05/26/aosp-compile-on-mac/</loc>
+    <lastmod>2018-05-26T06:42:19.376Z</lastmod>
+    <data>
+        <display>
+        <title>Mac下编译Android源码，并导入IntelliJ IDEA进行源码阅读</title>
+        <pubTime>2018-05-26T06:06:49.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="https://guotianqi.xyz/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://guotianqi.xyz/2018/05/24/java_thread_safe_singleton/</loc>
+    <lastmod>2018-05-25T15:24:03.132Z</lastmod>
+    <data>
+        <display>
+        <title>JAVA单例（Singleton）实现的几种方式（多线程安全）</title>
+        <pubTime>2018-05-24T15:12:44.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+        <tag>Java</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="https://guotianqi.xyz/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+</urlset>
